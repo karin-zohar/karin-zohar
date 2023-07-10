@@ -14,7 +14,8 @@
 
 ###
 
-<p align="left">Hi, I'm Karin! I'm a full stack & frontend developer who loves learning new things and exploring the web 🌎<br><br>- ⭐Check out my recent project - [flairr]('https://flairr.onrender.com/'), a marketplace for freelancers inspired by Fiverr. <br>- 📧 Contact me at karinzohar3@gmail.com<br>- 🚀 Open for work<br>- 📚 Graduated Coding Academy Full Stack Development Bootcamp<br>- ✏ Fast & independent learner</p>
+<p align="left">Hi, I'm Karin! I'm a full stack & frontend developer who loves learning new things and exploring the web 🌎<br><br>- ⭐Check out my recent project - <a href="https://flairr.onrender.com/" target="_blank">Flairr</a>
+, a marketplace for freelancers inspired by Fiverr. <br>- 📧 Contact me at karinzohar3@gmail.com<br>- 🚀 Open for work<br>- 📚 Graduated Coding Academy Full Stack Development Bootcamp<br>- ✏ Fast & independent learner</p>
 
 ###
 
