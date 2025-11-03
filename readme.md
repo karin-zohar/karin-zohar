@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">Hi, I'm Karin! I'm a Full Stack & Front End Developer who loves learning new things and exploring the web 🌎<br><br>- ⭐ Check out - <a href="[https://flairr.onrender.com/](https://www.karin-zohar.com/)" target="_blank">my website</a> to learn more about me
+<p align="left">Hi, I'm Karin! I'm a Full Stack & Front End Developer who loves learning new things and exploring the web 🌎<br><br>- ⭐ Check out <a href="https://www.karin-zohar.com/" target="_blank">my website</a> to learn more about me
  <br>- 📧 Contact me at <a href="mailto:karinzohar3@gmail.com" target="_blank">karinzohar3@gmail.com</a>
 <br>- 🚀 Open for work<br>- 📚 Graduated Coding Academy Full Stack Development Bootcamp<br>- ✏ Fast & independent learner</p>
 
